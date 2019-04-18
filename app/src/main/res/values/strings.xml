@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">test3</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="not_registered">Not registered?</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="already_has_an_account">Already has an account?</string>
+    <string name="register">Register</string>
+    <string name="create_new_task">Create new task</string>
+    <string name="enter_task_title">Enter task title</string>
+    <string name="create_task">Create task</string>
+    <string name="not_important_urgent">Not Important Urgent</string>
+    <string name="important_urgent">Important Urgent</string>
+    <string name="not_important_not_urgent">Not Important Not Urgent</string>
+    <string name="important_not_urgent">Important Not Urgent</string>
+</resources>
